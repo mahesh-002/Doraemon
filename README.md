@@ -2,9 +2,13 @@
 
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-%20Maheshwaran-red)
 
+---
+
 ## Source Code
 
 ![dashboard snap](https://github.com/mahesh-002/Doraemon/blob/main/Image/Source%20Code.png)
+
+---
 
 ## Output
 
